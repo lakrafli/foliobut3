@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/foliobut3/static/css/main.71b798a2.css",
+    "main.js": "/foliobut3/static/js/main.69fb1aa1.js",
+    "static/js/415.4d6acbeb.chunk.js": "/foliobut3/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/foliobut3/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/foliobut3/static/media/Soumyajit_Behera-BIT_MESRA.f3b3e20ce07c9f1254af.pdf",
+    "static/media/leaf.png": "/foliobut3/static/media/leaf.d1db2a4318648fdeaea6.png",
+    "static/media/chatify.png": "/foliobut3/static/media/chatify.7cb004067568c8117bc9.png",
+    "static/media/emotion.png": "/foliobut3/static/media/emotion.35d30a5a4c80a35596f7.png",
+    "static/media/blog.png": "/foliobut3/static/media/blog.fbf608cfd1ecafa02e7e.png",
+    "static/media/codeEditor.png": "/foliobut3/static/media/codeEditor.c2f23231770a01eaf65d.png",
+    "static/media/biostonepor.png": "/foliobut3/static/media/biostonepor.a3a00ec46d85c8ff0daa.png",
+    "static/media/logo.png": "/foliobut3/static/media/logo.b7ba4a7b9d6ff803a8ec.png",
+    "static/media/home-main.svg": "/foliobut3/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/foliobut3/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Gestion.jpg": "/foliobut3/static/media/Gestion.420c840fccaa5189d05d.jpg",
+    "static/media/suicide.png": "/foliobut3/static/media/suicide.c2f08f8f8ac55802ba7f.png",
+    "static/media/php.png": "/foliobut3/static/media/php.b63c2705ef2c7b8911c4.png",
+    "static/media/stock.jpg": "/foliobut3/static/media/stock.4bea871d4c61c6f0ddcb.jpg",
+    "static/media/home-bg.jpg": "/foliobut3/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/SAE.png": "/foliobut3/static/media/SAE.a769e8fb5c5b0280b3ad.png",
+    "static/media/avatar.svg": "/foliobut3/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/foliobut3/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/foliobut3/index.html",
+    "main.71b798a2.css.map": "/foliobut3/static/css/main.71b798a2.css.map",
+    "main.69fb1aa1.js.map": "/foliobut3/static/js/main.69fb1aa1.js.map",
+    "415.4d6acbeb.chunk.js.map": "/foliobut3/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/foliobut3/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71b798a2.css",
+    "static/js/main.69fb1aa1.js"
+  ]
+}
